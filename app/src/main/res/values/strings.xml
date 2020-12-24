@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">My Vegetables</string>
+    <string name="_nama">Nama</string>
+    <string name="_description">Description</string>
+    <string-array name="data_name">
+        <item>Wortel</item>
+        <item>Sawi</item>
+        <item>Tomat</item>
+        <item>Terung</item>
+        <item>Kangkung</item>
+        <item>Jagung</item>
+        <item>Mentimun</item>
+        <item>Kubis</item>
+        <item>Sledri</item>
+        <item>Pare</item>
+        <item>Labu Siam</item>
+        <item>Labu Kuning</item>
+        <item>Asparagus</item>
+        <item>Bayam</item>
+        <item>Kacang Panjang</item>
+        <item>Brokoli</item>
+        <item>Daun Singkong</item>
+        <item>Bayam Merah</item>
+        <item>Daun Katuk</item>
+        <item>Buncis</item>
+        <item>Tauge</item>
+
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Wortel adalah tumbuhan biennial yang menyimpan karbohidrat dalam jumlah besar untuk tumbuhan tersebut berbunga pada tahun kedua. Batang bunga tumbuh setinggi sekitar 1 m, dengan bunga berwarna putih, dan rasa yang manis langu. Bagian yang dapat dimakan dari wortel adalah bagian umbi atau akarnya. </item>
+        <item>Sawi merupakan sekelompok tumbuhan dari marga Brassica yang dimanfaatkan daun atau bunganya sebagai bahan pangan, baik segar maupun diolah. Sawi mencakup beberapa spesies Brassica yang kadang-kadang mirip satu sama lain. Di Indonesia penyebutan sawi biasanya mengacu pada sawi hijau.</item>
+        <item>Tomat mengandung antioksidan alami bernama likopen (lycopene). Zat ini dapat membantu memerangi efek radikal bebas penyebab kanker. Antioksidan lain yang terdapat pada tomat yaitu polifenol, naringenin, dan chlorogenic acid. Selain itu, tomat rendah kalori dan lemak, namun kaya akan karotenoid, lutein, gula, vitamin A, vitamin C, folat, dan kalium. Tak heran jika manfaat tomat juga melimpah ruah.</item>
+        <item>Terung adalah tumbuhan penghasil buah yang dijadikan sayur-sayuran. Asalnya adalah India dan Sri Lanka. Terung berkerabat dekat dengan kentang dan leunca, dan agak jauh dari tomat. Terung ialah terna yang sering ditanam secara tahunan. Tanaman ini tumbuh hingga 40–150 cm tingginya</item>
+        <item>Tumbuhan yang juga sering disebut bayam air ini mengandung banyak nutrisi di dalamnya. Tak heran kalau kamu disarankan untuk banyak mengonsumsi kangkung untuk menjaga kesehatan. Mengonsumsi sayur kangkung pun disarankan sejak dini.
+
+Dalam sayuran hijau ini, terkandung karbohidrat, protein, dan serat dalam jumlah yang cukup. Adapun kandungan kalori yang sangat sedikit sehingga tidak menyebabkan kegemukan. Selain itu, kangkung juga kaya akan mineral, seperti kalium, kalsium, zat besi, natrium, dan fosfor.
+
+Kangkung juga kaya akan vitamin A dan C yang sangat dibutuhkan oleh organ-organ tubuh kamu. Mengonsumsi sekitar 50 gram kangkung sudah mampu memenuhi asupan vitamin A harian hingga 70 persen dan vitamin C hingga 50 persen.
+
+</item>
+        <item>Tidak hanya tinggi karbohidrat, jagung juga kaya akan kandungan serat. Di dalam jagung terdapat dua jenis serat, yaitu serat larut dan tidak larut. Kandungan tersebut sangat baik untuk menjaga kesehatan penceraan. Serat larut yang ada pada jangung mampu menutup penyerapan kolesterol.
+
+ </item>
+        <item>Mentimun, timun, atau ketimun merupakan tumbuhan yang menghasilkan buah yang dapat dimakan. Buahnya biasanya dipanen ketika belum masak benar untuk dijadikan sayuran atau penyegar, tergantung jenisnya</item>
+        <item>Kubis, kol, kobis, atau kobis bulat adalah tanaman dua tahunan hijau atau ungu berdaun, ditanam sebagai tanaman tahunan sayuran untuk kepala padat berdaunnya. Erat kaitannya dengan tanaman cole lainnya, seperti brokoli, kembang kol, dan kubis brussel, itu diturunkan dari B. oleracea var. oleracea, kubis lapangan liar. </item>
+        <item>Daun seledri memiliki nama ilmiah Apium graveolens L. merupakan jenis sayuran dan tanaman obat. Masyarakat Indonesia lebih banyak memanfaatkan daun dan tangkainya sebagai pelengkap masakan. Di wilayah Eropa memanfaatkan tangkai, daun, buah, dan umbinya sebagai herbal. Seperti umbinya yang bisa digunakan sebagai afrodisiaka atau pembangkit gairah seksual.</item>
+        <item>Meskipun rasanya pahit dan jarang diminati namun pare mengandung banyak nutrisi yang baik untuk memelihara kesehatan tubuh. Beberapa nutrisi tersebut seperti vitamin A, vitamin B, vitamin C, dan vitamin K yang baik. Di dalamnya juga terkandung mineral penting seperti magnesium, mangan, potassium, dan sang.</item>
+        <item>Labu siam atau jipang adalah tumbuhan suku labu-labuan yang dapat dimakan buah dan pucuk mudanya. Tumbuhan ini merambat di tanah atau agak memanjat dan biasa dibudidayakan di pekarangan, biasanya di dekat kolam. Buah menggantung dari tangkai. Daunnya berbentuk mirip segitiga dan permukaannya berbulu.</item>
+        <item>Labu kuning kaya akan nutrisi seperti kalium, antioksidan dan vitamin. Nutrisi dalam satu cangkir labu kuning rebus tanpa garam antara lain 49 kalori, 1,76 gram protein, 0,17 gram lemak, 12 gram karbohidrat, 2,7 gram serat dan 5,1 gram gula.</item>
+        <item>Asparagus, dalam pengertian umum, adalah suatu jenis sayuran dari satu spesies tumbuhan genus Asparagus, terutama batang muda dari Asparagus officinalis. Asparagus telah digunakan sejak lama sebagai bahan makanan karena rasanya yang sedap dan sifat diuretiknya.</item>
+        <item>Sayuran yang berasal dari Asia ini memiliki banyak nutrisi termasuk vitamin dan mineral yang baik untuk tubuh. Vitamin yang banyak terdapat pada bayam yaitu vitamin A, vitamin C, vitamin B kompleks, vitamin K, dan vitamin E. Sedangkan mineral-mineral utama yang dimiliki bayam adalah magnesium, zat besi, asam folat, kalsium, potasium, dan sodium. </item>
+        <item>Kacang panjang merupakan tumbuhan yang dijadikan sayur atau lalapan. Ia tumbuh dengan cara memanjat atau melilit. Bagian yang dijadikan sayur atau lalapan adalah buah yang masih muda dan serat-seratnya masih lunak, kacang panjang ini mudah didapati di kawasan panas di Asia. Daunnya disebut dengan lembayung dan dapat dijadikan sayuran hijau.</item>
+        <item>Meskipun berasal dari Italia, kini Anda dapat dengan mudah menemukan brokoli dan kembang kol di pasaran. Bagian yang dimakan dari kedua sayuran ini adalah bagian bunganya. Bedanya, brokoli memiliki bunga berwarna hijau, sementara kembang kol berwarna putih. Selain diolah sebagai makanan, brokoli dan kembang kol juga dapat dijadikan sebagai jus.</item>
+        <item>Setiap 100 gram daun singkong, terdapat 3,7 gram protein di dalamnya yang cukup untuk memenuhi kebutuhan protein setiap harinya.
+
+Tidak hanya itu, di dalam daun singkong juga terdapat beberapa jenis protein, semisal  lisin, isoleusina, leusina, valina, dan beberapa zat yang tidak bisa ditemukan di tanaman sayur lainnya.</item>
+        <item>Bayam merah memiliki kandungan zat besi yang tinggi, yang sangat bermanfaat untuk perkembangan aliran darah di sistem Anda. Konsumsi rutin bayam merah dapat meningkatkan kadar hemoglobin dan memurnikan darah Anda sehingga secara alami meningkatkan aliran darah.</item>
+        <item>Katuk adalah spesies tumbuhan yang banyak terdapat di Asia Tenggara termasuk ke dalam genus sauropus dalam suku phyllanthaceae. Tumbuhan ini dalam beberapa bahasa dikenali sebagai mani cai, cekur manis; dan rau ngót. Daun katuk merupakan sayuran minor yang dikenal memiliki khasiat memperlancar aliran air susu ibu</item>
+        <item>Buncis, adalah sejenis polong-polongan yang dapat dimakan dari berbagai kultivar Phaseolus vulgaris. Buah, biji, dan daunnya dimanfaatkan orang sebagai sayuran. Sayuran ini kaya dengan kandungan protein. Ia dipercaya berasal dari Amerika Tengah dan Amerika Selatan</item>
+        <item>Toge merupakan kecambah dengan kandungan jumlah enzim yang sangat tinggi. Enzim merupakan suatu hal yang penting dalam proses pencernaan. Selain enzim, serat-serat yang ditemukan dalam kecambah memberikan manfaat yang sangat penting pada sistem pencernaan. Serat pada tauge dapat membuat pencernaan menjadi lebih lancar. Serat dalam toge juga merangsang asam lambung untuk membantu enzim mencerna makanan secara efektif dan efisien. </item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://sumberplastik.co.id/wp-content/uploads/2017/12/manfaat-wortel.jpg</item>
+        <item>https://ecs7.tokopedia.net/img/cache/700/product-1/2020/7/3/batch-upload/batch-upload_34e30a55-45c8-4f90-b755-df082b2c2c6d.jpg</item>
+        <item>https://cdn0-production-images-kly.akamaized.net/tgiXl3Q285rZ5C2g83yukLcxLfg=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1018928/original/082399700_1444710907-tomat-rsmadkotakediri.jpg</item>
+        <item>https://ecs7.tokopedia.net/img/cache/700/product-1/2020/8/19/9409855/9409855_39261719-bc91-4ccc-a5b2-60a13918e33e_700_700.jpg</item>
+        <item>https://cf.shopee.co.id/file/1cb0a717304a7896a0bd43ba7faa77d5</item>
+        <item>https://ilmubudidaya.com/wp-content/uploads/2017/12/jagung-manis1_20161206_104131.jpg</item>
+        <item>https://cdn-brilio-net.akamaized.net/news/2015/09/15/17680/750xauto-9-kedahsyatan-mentimun-yang-tak-pernah-kamu-sangka-buktikan-aja-deh-1509158.jpg</item>
+        <item>https://cf.shopee.co.id/file/0a1366c2167a23b37267c262a8e5e73f</item>
+        <item>https://i0.wp.com/jybmedia.com/wp-content/uploads/2020/03/daun-seledri.jpg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2019/11/26/5a83c0ca-8719-4d53-9764-912962460170_43.jpeg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2019/04/11/adaa555a-fbd4-425e-8f78-f72e1047b0f1.jpeg</item>
+        <item>https://cf.shopee.co.id/file/55aae3156855bf86d7aab0a445ed97f1</item>
+        <item>https://www.simplyrecipes.com/wp-content/uploads/2018/03/stovetop-asparagus-horiz-a-2000.jpg</item>
+        <item>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//96/MTA-7228293/rumah_sayur_rumah_sayur_jakarta_utara_bayam_hijau_sayuran_-250_gram-_full02_ctyw98n.jpg</item>
+        <item>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/MTA-5178029/kedaisayur_kedaisayur-kacang-panjang--500-g--jakarta-_full01.jpg</item>
+        <item>https://gosayur.com/wp-content/uploads/2020/05/brokoli-1.jpg</item>
+        <item>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//92/MTA-7149106/supernova_mart_daun_singkong_full02_jzy6smgb.jpg</item>
+        <item>https://seldec.com.my/data/photo/1401_1595392881244.jpg</item>
+        <item>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//105/MTA-8672099/ubifresh_ubifresh_full01.jpg</item>
+        <item>https://freshplus62.com/wp-content/uploads/2020/03/baby-buncis-fp.jpg</item>
+        <item>https://cf.shopee.co.id/file/832c4fa7e0b9e3916ae5dc2ff6d0647d</item>
+
+    </string-array>
+
+</resources>
